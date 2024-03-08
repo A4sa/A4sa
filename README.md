@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Embedded Linux, C**
 
-- 📫 How to reach me **abdulsattarbabu786@gmail.com**
+- 📫 How to reach me **abdul.linuxdev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1M9rZCabO9xgIeTP3IO0LPg4oCBQY8K-u/view?usp=drive_link](https://drive.google.com/file/d/1M9rZCabO9xgIeTP3IO0LPg4oCBQY8K-u/view?usp=drive_link)
 
