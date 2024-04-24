@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ARAS - Advanced Rider Assistance System**
 
-- 📝 I regularly write articles on [https://talkwithsattar.blogspot.com/](https://talkwithsattar.blogspot.com/)
+- 📝 I regularly write articles on [https://talkwithsattar.blogspot.com/](https://medium.com/@embedded.ai)
 
 - 💬 Ask me about **Embedded Linux, C**
 
