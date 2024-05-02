@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abdul Sattar</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Abdul Sattar </h1>
 <h3 align="center">A passionate Embedded Developer from India</h3>
+
+## 👨🏻‍💻 About Me:
+
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
 - 🔭 I’m currently working on **ARAS - Advanced Rider Assistance System**
 
@@ -9,7 +13,7 @@
 
 - 📫 How to reach me **abdul.linuxdev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M9rZCabO9xgIeTP3IO0LPg4oCBQY8K-u/view?usp=drive_link](https://drive.google.com/file/d/1M9rZCabO9xgIeTP3IO0LPg4oCBQY8K-u/view?usp=drive_link)
+
 
 <h3 align="left">Languages</h3>
 
