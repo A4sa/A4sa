@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **abdul.linuxdev@gmail.com**
 
+- 🤔 I’m looking for help with Competitive Programming
+
+
+
 
 
 <h3 align="left">Languages</h3>
