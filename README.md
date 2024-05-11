@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="./thoughtworks-gif_dribbble.gif" height="200px" align="right" />
 
 - 🔭 I’m currently working on **ARAS - Advanced Rider Assistance System**
 
