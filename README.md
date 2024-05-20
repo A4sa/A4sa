@@ -21,7 +21,7 @@
 
 <h3 align="left">Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,py,arduino,raspberrypi,bash,powershell,matlab,perl)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,py,html,arduino,raspberrypi,bash,powershell,matlab,perl)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
