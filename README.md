@@ -21,11 +21,11 @@
 
 <h3 align="left">Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,py,html,arduino,raspberrypi,bash,powershell,matlab,perl)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,py,html,arduino,raspberrypi,bash,powershell,matlab,rust)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,pycharm,git,github,linux,ubuntu,kali,wordpress,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,pycharm,git,github,linux,ubuntu,kali,wordpress,notion)](https://skillicons.dev)
 
 
 
