@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ARAS - Advanced Rider Assistance System**
 
-- 📝 I regularly write articles on [Abdul Sattar - Medium](https://medium.com/@embedded.ai)
+- 📝 I regularly write articles on [Abdul Sattar - Medium](https://medium.com/@proto-edge)
 
 - 💬 Ask me about **Embedded Linux, C**
 
@@ -20,12 +20,10 @@
 <p align="left">
 <a href="https://dev.to/abdul_sattar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abirsarkar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/a4sa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir-sarkar" height="30" width="40" /></a>
-<a href="https://medium.com/@embedded.ai" target="blank"><img align="center" src="./medium-icon.jpg" alt="medium" height="40" width="50" /></a>
+<a href="https://medium.com/@proto-edge" target="blank"><img align="center" src="./medium-icon.jpg" alt="medium" height="40" width="50" /></a>
 <a href="https://www.hackster.io/Abdul_Sattar" target="blank"><img align="center" src="./hackster-icon.png" alt="hackster" height="30" width="40" /></a>  
 <a href="https://leetcode.com/u/A4sa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abir007" height="30" width="40" /></a>
 </p>
-
-
 
 <h3 align="left">Languages</h3>
 
@@ -34,8 +32,6 @@
 <h3 align="left">Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,vim,pycharm,git,github,linux,ubuntu,kali,wordpress,notion)](https://skillicons.dev)
-
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a4sa&show_icons=true&locale=en&layout=compact" alt="a4sa" /></p>
 
