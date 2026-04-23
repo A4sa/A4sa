@@ -1,38 +1,69 @@
-
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Abdul Sattar </h1>
-<h3 align="center">A passionate Embedded Developer from India</h3>
-
-## 👨🏻‍💻 About Me:
-
-<img  src="./thoughtworks-gif_dribbble.gif" height="200px" align="right" />
-
-- 🔭 I’m currently working on **ARAS - Advanced Rider Assistance System**
-
-- 📝 I regularly write articles on [Abdul Sattar - Medium](https://medium.com/@proto-edge)
-
-- 💬 Ask me about **Embedded Linux, C**
-
-- 📫 How to reach me **abdul.linuxdev@gmail.com**
-
-- 🤔 I’m looking for help with Competitive Programming
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/abdul_sattar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="abirsarkar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/a4sa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir-sarkar" height="30" width="40" /></a>
-<a href="https://medium.com/@abdul_sattar" target="blank"><img align="center" src="./medium-icon.jpg" alt="medium" height="40" width="50" /></a>
-<a href="https://www.hackster.io/Abdul_Sattar" target="blank"><img align="center" src="./hackster-icon.png" alt="hackster" height="30" width="40" /></a>  
-<a href="https://leetcode.com/u/A4sa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abir007" height="30" width="40" /></a>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Abdul Sattar | Lead Systems Engineer - ARAS</h1>
+<p align="center">
+  <i>Founding Engineer building India’s first Advanced Rider Assistance System (ARAS) for 2-Wheelers.</i>
 </p>
 
-<h3 align="left">Languages</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/a4sa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@proto-edge"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="mailto:abdul.linuxdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/A4sa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,py,html,arduino,raspberrypi,bash,powershell,matlab,rust)](https://skillicons.dev)
+---
 
-<h3 align="left">Tools</h3>
+### 👨🏻‍💻 About Me 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,vim,pycharm,git,github,linux,ubuntu,kali,wordpress,notion)](https://skillicons.dev)
+I am a **Lead System Engineer** specializing in the intersection of low-level hardware bring-up and high-level Edge AI systems. As the first engineering hire and founding team member at EdgeVerse, I architected and scaled the core technology stack for India's first functional ARAS for two-wheelers. 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a4sa&show_icons=true&locale=en&layout=compact" alt="a4sa" /></p>
+My engineering philosophy centers on taking complex, cross-domain challenges—from writing custom Linux device drivers to integrating neural network engines—and delivering production-ready, scalable systems for OEM environments.
 
-<p>&nbsp <img align="center" src="https://github-readme-stats.vercel.app/api?username=a4sa&show_icons=true&locale=en" alt="a4sa" /></p>
+- **Edge AI & Vision:** Qualcomm SNPE Integration, Camera Pipelines (V4L2), and Radar/Camera Sensor Fusion.
+- **Systems Architecture:** Linux Kernel, BSP, Full-Lifecycle Board Bring-up, and Android System Integration for OEM Digital Clusters.
+- **Hardware Platforms:** Qualcomm 6115, Ambarella CV25, Custom SoCs.
+- **Impact:** Successfully led the technical pivot from custom hardware architectures to highly scalable Qualcomm-based software stacks.
+
+---
+
+### 🛠️ Technical Arsenal
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Languages</h4>
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,java&theme=light&perline=3" />
+      <br/><br/>
+    </td>
+    <td width="33%" valign="top">
+       <h4>Tools & Environment</h4>
+      <img src="https://skillicons.dev/icons?i=git,gitlab,github,vim,vscode,arduino,cmake,docker,devto,notion&theme=dark&perline=5" />
+      <br/><br/>
+    </td>
+    <td width="33%" valign="top">
+     <h4>Systems & Edge AI</h4>
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,raspberrypi,opencv,tensorflow,pytorch,aws&theme=dark&perline=4" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=a4sa&show_icons=true&theme=transparent&hide_border=true&title_color=24D6DD&text_color=ffffff&icon_color=24D6DD">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=a4sa&show_icons=true&hide_border=true&title_color=0077b6&text_color=333333&icon_color=0077b6&bg_color=ffffff">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=a4sa&show_icons=true&theme=transparent&hide_border=true&title_color=24D6DD&text_color=ffffff&icon_color=24D6DD" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=a4sa&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=24D6DD&text_color=ffffff&hide=matlab">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=a4sa&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=0077b6&text_color=333333&bg_color=ffffff&hide=matlab">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=a4sa&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=24D6DD&text_color=ffffff&hide=matlab" alt="Top Languages" />
+  </picture>
+</p>
+
+
+
+
+
+  
