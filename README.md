@@ -3,7 +3,6 @@
   <i>Founding Engineer building India’s first Advanced Rider Assistance System (ARAS) for 2-Wheelers.</i>
 </p>
 
-
 <p align="center">
 <a href="https://www.linkedin.com/in/a4sa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@abdul_sattar"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -11,7 +10,6 @@
 <a href="https://www.hackerrank.com/profile/A4sa_Abdul"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://leetcode.com/u/A4sa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
----
 
 ### 👨🏻‍💻 About Me 
 
@@ -24,23 +22,22 @@ My engineering philosophy centers on taking complex, cross-domain challenges—f
 - **Hardware Platforms:** Qualcomm 6115, Ambarella CV25, Custom SoCs.
 - **Impact:** Successfully led the technical pivot from custom hardware architectures to highly scalable Qualcomm-based software stacks.
 
----
 
 ### 🛠️ Technical Arsenal
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="23%" valign="top">
       <h4>Languages</h4>
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,java&theme=light&perline=3" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,java,gradle&theme=light&perline=3" />
       <br/><br/>
     </td>
-    <td width="33%" valign="top">
+    <td width="38%" valign="top">
        <h4>Tools & Environment</h4>
       <img src="https://skillicons.dev/icons?i=git,gitlab,github,vim,vscode,arduino,cmake,docker,devto,notion&theme=dark&perline=5" />
       <br/><br/>
     </td>
-    <td width="33%" valign="top">
+    <td width="30%" valign="top">
      <h4>Systems & Edge AI</h4>
       <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,raspberrypi,opencv,tensorflow,pytorch,aws&theme=dark&perline=4" />
       <br/><br/>
