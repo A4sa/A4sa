@@ -3,13 +3,14 @@
   <i>Founding Engineer building India’s first Advanced Rider Assistance System (ARAS) for 2-Wheelers.</i>
 </p>
 
+
 <p align="center">
 <a href="https://www.linkedin.com/in/a4sa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@abdul_sattar"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="mailto:abdul.linuxdev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://dev.to/abdul_sattar"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/A4sa_Abdul"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 <a href="https://leetcode.com/u/A4sa/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 </p>
-
 ---
 
 ### 👨🏻‍💻 About Me 
