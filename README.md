@@ -15,13 +15,6 @@
 
 I am a **Lead System Engineer** specializing in the intersection of low-level hardware bring-up and high-level Edge AI systems. As the first engineering hire and founding team member at EdgeVerse, I architected and scaled the core technology stack for India's first functional ARAS for two-wheelers. 
 
-My engineering philosophy centers on taking complex, cross-domain challenges—from writing custom Linux device drivers to integrating neural network engines—and delivering production-ready, scalable systems for OEM environments.
-
-- **Edge AI & Vision:** Qualcomm SNPE Integration, Camera Pipelines (V4L2), and Radar/Camera Sensor Fusion.
-- **Systems Architecture:** Linux Kernel, BSP, Full-Lifecycle Board Bring-up, and Android System Integration for OEM Digital Clusters.
-- **Hardware Platforms:** Qualcomm 6115, Ambarella CV25, Custom SoCs.
-- **Impact:** Successfully led the technical pivot from custom hardware architectures to highly scalable Qualcomm-based software stacks.
-
 
 ### 🛠️ Technical Arsenal
 
