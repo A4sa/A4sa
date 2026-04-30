@@ -32,7 +32,7 @@ I am a **Lead System Engineer** specializing in the intersection of low-level ha
     </td>
     <td width="30%" valign="top">
      <h4>Systems & Edge AI</h4>
-      <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,raspberrypi,opencv,tensorflow,pytorch,aws&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,raspberrypi,opencv,tensorflow,pytorch,aws&theme=dark&perline=4" />
       <br/><br/>
     </td>
   </tr>
