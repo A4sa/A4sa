@@ -52,9 +52,3 @@ I am a **Lead System Engineer** specializing in the intersection of low-level ha
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=a4sa&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=24D6DD&text_color=ffffff&hide=matlab" alt="Top Languages" />
   </picture>
 </p>
-
-
-
-
-
-  
