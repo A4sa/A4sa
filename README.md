@@ -20,20 +20,26 @@ I am a **Lead System Engineer** specializing in the intersection of low-level ha
 
 <table width="100%">
   <tr>
-    <td width="23%" valign="top">
-      <h4>Languages</h4>
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,java,gradle&theme=light&perline=3" />
+    <td width="27%" valign="top">
+      <h4>Languages & OS</h4>
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,bash,java,qt&theme=dark&perline=3" />
       <br/><br/>
+      <img src="https://img.shields.io/badge/Yocto_Project-FFFFFF?style=flat-square&logo=yocto&logoColor=black" />
+      <img src="https://img.shields.io/badge/FreeRTOS-00A91C?style=flat-square&logo=rtos&logoColor=white" />
     </td>
-    <td width="38%" valign="top">
+    <td width="39%" valign="top">
        <h4>Tools & Environment</h4>
       <img src="https://skillicons.dev/icons?i=git,gitlab,github,vim,vscode,arduino,cmake,docker,devto,notion&theme=dark&perline=5" />
       <br/><br/>
+      <img src="https://img.shields.io/badge/ISO_26262-005571?style=flat-square" />
+      <img src="https://img.shields.io/badge/MISRA_C/C++-005571?style=flat-square" />
     </td>
-    <td width="30%" valign="top">
+    <td width="34%" valign="top">
      <h4>Systems & Edge AI</h4>
       <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,raspberrypi,opencv,tensorflow,pytorch,aws&theme=dark&perline=4" />
       <br/><br/>
+      <img src="https://img.shields.io/badge/Qualcomm_SNPE-3253DC?style=flat-square&logo=qualcomm&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ambarella_CV25-FF0000?style=flat-square" />
     </td>
   </tr>
 </table>
